@@ -12,3 +12,5 @@ An empirical investigation into Nigeria's monetary policy transmission mechanism
 - `data/`: Contains the cleaned monthly macroeconomic dataset (`macro_data.csv`).
 - `scripts/`: EViews command execution scripts and transformations.
 - `outputs/`: Frozen regression tables and diagnostic charts.
+## 📷 Empirical Results Output
+![Baseline Regression Results](outputs/regression_results.png)
